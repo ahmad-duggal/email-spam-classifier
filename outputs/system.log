@@ -1,0 +1,3 @@
+2026-04-20 01:15:07 | INFO     | [predict] | Machine Learning models missing from hot cache. Initializing disk I/O load...
+2026-04-20 01:15:07 | INFO     | [predict] | Successfully loaded ML models to RAM. Global scope cached.
+2026-04-20 01:15:07 | INFO     | [api] | FastAPI Event: Models successfully loaded into memory!
